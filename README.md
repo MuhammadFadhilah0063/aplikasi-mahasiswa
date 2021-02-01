@@ -1,8 +1,11 @@
 # aplikasi-mahasiswa
 
 Nama  : Muhammad Fadhilah
+
 NPM   : 19630063
+
 Kelas : 3P TI Reg Pagi BJM
+
 
 
 Basis Data : mahasiswa
@@ -18,7 +21,8 @@ Tabel :
   4. tanggal_lahir (date)
   5. jenis_kelamin (enum ['L','P'])
   6. alamat (text)
-  7. kode_pos (varchar 5)
+  7. kode_pos (varchar 5).
+
 
 2. user
 
