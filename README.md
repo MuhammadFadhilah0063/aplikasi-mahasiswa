@@ -8,11 +8,12 @@ Kelas : 3P TI Reg Pagi BJM
 
 
 
+
 Basis Data : mahasiswa
 
 Tabel :
 
-1. mahasiswa
+A. mahasiswa
 
  Strukturnya : 
   1. npm (varchar 8) primary
@@ -21,10 +22,9 @@ Tabel :
   4. tanggal_lahir (date)
   5. jenis_kelamin (enum ['L','P'])
   6. alamat (text)
-  7. kode_pos (varchar 5).
+  7. kode_pos (varchar 5)
 
-
-2. user
+B. user
 
  strukturnya :
   1. id (int) primary + Auto increment
